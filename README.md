@@ -7,6 +7,18 @@ Sou **Marcello**, estudante de **Ciência da Computação** na **Universidade Fe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelloEdu&layout=compact&theme=midnight-purple" alt="Top Linguagens">
 </div>
 
+### 🗂️ Estrutura de Commits
+Minha estrutura de commits segue um padrão bem definido para manter organização e clareza nos projetos:
+
+- **Initial commit**: Autoexplicativo, para iniciar o repositório.
+- **[INIT]**: Adicionando arquivos base, geralmente em projetos e trabalhos planejados previamente.
+- **[ADD]**: Adicionando uma nova feature ou arquivo.
+- **[UPDATE]**: Atualizando algo existente no projeto.
+- **[FIXED]**: Resolvendo algum bug ou issue.
+- **[FINISH]**: Indicando que o trabalho foi finalizado.
+
+---
+
 ### Tecnologias que programo atualmente
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
