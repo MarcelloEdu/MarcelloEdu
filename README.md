@@ -48,9 +48,6 @@ Minha estrutura de commits segue um padrão bem definido para manter organizaç�
   <a href="https://github.com/MarcelloEdu/FREEWAY">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcelloEdu&repo=FREEWAY&show_icons=true&theme=midnight-purple" alt="Freeway" style="margin-right: 10px;">
   </a>
-  <a href="https://github.com/MarcelloEdu/WZAPPER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcelloEdu&repo=WZAPPER&show_icons=true&theme=midnight-purple" alt="WordZapper">
-  </a>
 </div>
 
 ## 🎯 Objetivos Futuros
