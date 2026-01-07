@@ -55,9 +55,6 @@ Minha estrutura de commits segue um padrão bem definido para manter organizaç�
 - Me aprimorar na parte de engenharia de requisitos
 - Aumentar meu repertório de linguagens
 
-## 🎮 Curiosidades
-- Sou apaixonado por futebol, torcedor fanático do Corinthians
-- Adoro truco e sou especialista em pedir 6 no momento errado :(
 
 ## Contatos
 <div style="display: flex; flex-direction: row; align-items: center;">
