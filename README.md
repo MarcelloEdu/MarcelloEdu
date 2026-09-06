@@ -121,25 +121,6 @@ const Cello = {
 </tr>
 </table>
 
-<br>
-
-<h3 align="center">🧰 Tools & Workflow</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,postman,npm,git,github,discord,macos&perline=8"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyprland-55B5EA?style=for-the-badge&logo=hyprland&logoColor=white"/>
-</p>
-
-<br/>
-
 ## 🌐 Connect with Me
 
 <p align="center">
