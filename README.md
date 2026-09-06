@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="./assets/ufpr.png" height="70" alt="UFPR Logo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/ufpr_black.png">
+    <img src="./assets/ufpr.png" height="70" alt="UFPR Logo" valign="middle">
+  </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/ecomp.svg" height="50" alt="Ecomp Logo" />
+  <img src="./assets/ecomp.svg" height="50" alt="Ecomp Logo" valign="middle" />
 </p>
 
 <p align="center">
